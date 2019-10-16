@@ -1,0 +1,3 @@
+The system shall let the admin change the name of the event.
+The system shall let the admin delete an event.
+The system shall let the admin remove a player from an event.
