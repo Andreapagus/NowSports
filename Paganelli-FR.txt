@@ -1,6 +1,6 @@
 ﻿Functional Requirements
 
-Andrea Paganelli
+- Andrea Paganelli
 
 
 The system shall let the user create an event.
