@@ -1,0 +1,6 @@
+-The system shall register users.
+
+-The system shall make the renter specify their sport place’s address.
+
+-The system shall make the renter specify the price of rent of their sport place.
+

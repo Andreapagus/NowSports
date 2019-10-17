@@ -1,0 +1,6 @@
+-As a user, I want to remove users from the event, so I can remove players who don’t want to play anymore.
+
+-As a renter, I want the ability to pin my place for rent on the map, so I can make it easier for users to find it.
+
+-As a renter, I want to show users the price of a match, so I can let users know when I make a discount.
+
