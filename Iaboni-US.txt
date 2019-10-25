@@ -1,3 +1,0 @@
-As a user, I want to be able to create events, so I can play with other users.
-As a user, I want to add other users in the event, so I can keep them updated about the event.  
-As a user, I want to manage a group of users, so I can organize the event with the people I invited.
