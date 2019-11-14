@@ -4,8 +4,9 @@ jdk:
 
 addons:
  sonarcloud:
-  organization: andreapagus
+  organization: Andreapagus
   token:
    secure: f496222298ba22040ad458efcc7e99fc7e6f3e36
 script: 
+- ant build
 - sonar-scanner
