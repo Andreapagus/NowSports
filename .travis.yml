@@ -4,7 +4,7 @@ jdk:
 
 addons:
  sonarcloud:
-  organization: Andreapagus
+  organization: andreapagus
   token:
    secure: 830e544e6cb36525e46011f3f188169ef3a85c8a
 script: 
